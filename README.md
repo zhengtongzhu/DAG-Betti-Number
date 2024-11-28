@@ -1,2 +1,2 @@
 # DAG-Betti-Number
-maximal betti number computation for DAG
+Maximal betti number computation for DAG (directed acyclic graph). The main function and the comparisons with the general algorithm are provided.
